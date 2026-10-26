@@ -1,0 +1,1 @@
+var e=`/assets/bank-logo-P_jhvcHa.png`;export{e as t};
